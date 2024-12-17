@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+- 📫 How to reach me:
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosheejain/)
+[![Website Badge](https://img.shields.io/badge/website-000?color=gray&style=for-the-badge&logo=google%20chrome&logoColor=white)](https://yosheejain.github.io/)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?color=591515&logo=gmail&style=for-the-badge&logoColor=white)](mailto:yosheej2@illinois.edu)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?color=181717&logo=github&style=for-the-badge&logoColor=white)](https://github.com/yosheejain)
+[![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-07B6FF?color=07B6FF&logo=google&style=for-the-badge&logoColor=white)](https://scholar.google.com/citations?hl=en&user=HSgotCcAAAAJ)
+
+
+
 <!--
 **yosheejain/yosheejain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+ ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
