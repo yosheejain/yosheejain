@@ -1,12 +1,71 @@
-## Hi there 👋
+## Hi there, I am Yoshee 👋
 
-- 📫 How to reach me:
+I am a junior pursuing my undergraduate degree in Computer Science at the University of Illinois, Urbana-Champaign, with a passion for research in Human-Computer Interaction, CS Education, and Applied AI/ML. My research interests are in designing human-centered systems that can integrate computing as a tool in real-world applications. I want to design educational technology tools so that all students can engage with computing in ways relevant to their learning objectives and meaningful for their future goals. The following is a non-exhaustive list that summarizes my technical skills and tools I've worked with! Feel free to reach out to me to chat about any of these or anything else!
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosheejain/)
-[![Website Badge](https://img.shields.io/badge/website-000?color=gray&style=for-the-badge&logo=google%20chrome&logoColor=white)](https://yosheejain.github.io/)
-[![Email Badge](https://img.shields.io/badge/Email-D14836?color=591515&logo=gmail&style=for-the-badge&logoColor=white)](mailto:yosheej2@illinois.edu)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?color=181717&logo=github&style=for-the-badge&logoColor=white)](https://github.com/yosheejain)
-[![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-07B6FF?color=07B6FF&logo=google&style=for-the-badge&logoColor=white)](https://scholar.google.com/citations?hl=en&user=HSgotCcAAAAJ)
+<h4 align="center">
+   Skills
+</h4>
+
+<div align="center">
+  <img title="Python" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
+  <img title="C" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
+  <img title="C++" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
+  <img title="Java" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
+  <img title="R" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
+  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
+  <img title="Javascript" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
+  <img title="HTML5" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
+  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
+  <img title="CSS" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+</div>
+
+
+<h4 align="center">
+   Tools I've played around With
+</h4>
+
+<div align="center">
+  <img title="Android-Studio" alt="Android-Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
+  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
+  <img title="VSCode" alt="VSCode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
+  <img title="Docker" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
+  <img title="mySQL" alt="mySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
+  <img title="git" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
+  <img title="GitHub" alt="GitHub" width="28px" src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg"/>
+  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
+  <img title="NumPy" alt="NumPy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
+</div>
+
+
+
+<h4 align="center">
+   Contact Me
+</h4>
+
+<div align="center">
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosheejain/)
+ <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
+[![Website Badge](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yosheejain.github.io/)
+ <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yosheej2@illinois.edu)
+ <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yosheejain)
+ <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
+[![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-07B6FF?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=HSgotCcAAAAJ)
+
+</div>
+
 
 
 
