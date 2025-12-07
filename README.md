@@ -58,7 +58,7 @@ I am a junior pursuing my undergraduate degree in Computer Science at the Univer
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosheejain/)
  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
-[![Website Badge](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://yosheejain.github.io/](https://yosheejain.com/))
+[![Website Badge](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yosheejain.com/)
  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yosheej2@illinois.edu)
  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
