@@ -22,6 +22,7 @@ I am a junior pursuing my undergraduate degree in Computer Science at the Univer
   <img title="HTML5" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
   <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
   <img title="CSS" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+   <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
   <img title="TypeScript" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 </div>
 
@@ -43,8 +44,9 @@ I am a junior pursuing my undergraduate degree in Computer Science at the Univer
   <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
   <img title="GitHub" alt="GitHub" width="28px" src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg"/>
   <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
-   <img title="Cursor" alt="Cursor" width="28px" src="https://cdn-icons-png.flaticon.com/512/32/32213.png"/>
+   <img title="Cursor" alt="Cursor" width="28px" src="https://cdn-icons-png.flaticon.com/512/159/159666.png"/>
 <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
+
 
 </div>
 
