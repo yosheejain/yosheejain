@@ -44,14 +44,6 @@ I enjoy building interactive systems and evaluating other systems and models to 
 <img title="scikit-learn" alt="scikit-learn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
 &nbsp;&nbsp;
 <img title="PyTorch" alt="PyTorch" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-&nbsp;&nbsp;
-<img title="Jupyter" alt="Jupyter" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
-<img title="OpenAI API" alt="OpenAI API" width="32px" src="https://cdn.simpleicons.org/openai"/>
-&nbsp;&nbsp;
-<img title="Hugging Face" alt="Hugging Face" width="32px" src="https://cdn.simpleicons.org/huggingface"/>
-&nbsp;&nbsp;
-<img title="Ollama" alt="Ollama" width="32px" src="https://cdn.simpleicons.org/ollama"/>
-&nbsp;&nbsp;
 
 </div>
 
@@ -74,6 +66,10 @@ I enjoy building interactive systems and evaluating other systems and models to 
 <img title="Git" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 &nbsp;&nbsp;
 <img title="GitHub" alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img title="Hugging Face" alt="Hugging Face" width="32px" src="https://cdn.simpleicons.org/huggingface"/>
+&nbsp;&nbsp;
+<img title="Ollama" alt="Ollama" width="32px" src="https://cdn.simpleicons.org/ollama"/>
+&nbsp;&nbsp;
 
 </div>
 
