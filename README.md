@@ -28,7 +28,7 @@ I enjoy building interactive systems and evaluating other systems and models to 
 
 </div>
 
-<h4 align="center">Frameworks, Domain-Specific Libraries, & APIs</h4>
+<h4 align="center">Frameworks & Domain-Specific Libraries</h4>
 
 <div align="center">
 
