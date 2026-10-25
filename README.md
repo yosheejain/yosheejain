@@ -1,6 +1,6 @@
 ## Hi there, I am Yoshee 👋
 
-I am a senior pursuing my undergraduate degree in Computer Science at the University of Illinois, Urbana-Champaign. My research interests lie at the intersection of human-centered computing and computing education, focusing on the design of interactive learning environments that support people from diverse backgrounds in learning computing. The following is a non-exhaustive list that summarizes my technical skills and tools I've worked with! Feel free to reach out to me to chat about any of these or anything else!
+I'm a first-year PhD Student in Computer Science at the University of Illinois, Urbana-Champaign. My research focuses on designing instructional experiences that prepare people from diverse backgrounds to learn computing on their own and apply it to their work. The following is a non-exhaustive list that summarizes my technical skills and tools I've worked with! Feel free to reach out to me to chat about any of these or anything else!
 
 <h4 align="center">
    Skills
