@@ -1,8 +1,8 @@
 ## Hi there, I'm Yoshee 👋
 
-I'm a first-year PhD student in Computer Science at the University of Illinois Urbana-Champaign. My research focuses on designing instructional experiences that prepare people from diverse backgrounds to learn computing independently and apply it to their work.
+I'm a first-year PhD student in Computer Science at the University of Illinois Urbana-Champaign, advised by Dr. Katie Cunningham and Dr. Tal August. I study how people from non-computer science backgrounds can use generative AI for self-directed upskilling in computing. I enjoy both building interactive systems and empirically evaluating educational interventions and AI models in service of this goal.
 
-I enjoy building interactive systems and evaluating other systems and models to explore how technology can support learning. Below is a non-exhaustive list of technologies I've worked with through research, projects, and coursework. Feel free to reach out to chat about any of these or anything else!
+Below is a non-exhaustive list of technologies I've worked with through research, projects, and coursework. Feel free to reach out to chat about any of these or anything else!
 
 <h4 align="center">Programming Languages</h4>
 
